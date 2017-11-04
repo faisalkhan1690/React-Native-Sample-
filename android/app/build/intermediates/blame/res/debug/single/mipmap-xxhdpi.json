@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/my_react_natve /TestProject/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/user/my_react_natve /TestProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/my_react_natve /React-Native-Sample-/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/user/my_react_natve /React-Native-Sample-/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
